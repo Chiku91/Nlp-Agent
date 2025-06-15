@@ -1,2 +1,2 @@
 # Nlp-Agent
-This is a mutoifacet nlp agent
+This is a multifacet nlp agent
